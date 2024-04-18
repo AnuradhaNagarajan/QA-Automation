@@ -1,3 +1,5 @@
 Testing mobile application and waiting to log defect.
 
-testing is interesting
+testing is interesting.
+
+Changes made 
